@@ -68,4 +68,10 @@
 				}
 			}
 		}
-	}	
+	}
+
+7.项目demo下载地址
+
+
+https://github.com/charles427/TesseractDemo
+		
