@@ -11,3 +11,6 @@
 训练参考
 
 https://github.com/tesseract-ocr/tesseract/wiki/TrainingTesseract#run-tesseract-for-training
+
+
+
